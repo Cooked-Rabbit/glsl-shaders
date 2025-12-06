@@ -1,2 +1,2 @@
 # glsl-shaders
-Some GLSL shaders for my Scratch project. 
+Shaders for my Scratch project. 
