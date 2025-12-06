@@ -1,4 +1,7 @@
 #version 300 es
+
+// This shader was archived
+
 precision mediump float;
 
 in vec4 v_color;
@@ -52,3 +55,4 @@ void main() {
 
     fragColor = texture(u_skin, v_texCoord);
 }
+
