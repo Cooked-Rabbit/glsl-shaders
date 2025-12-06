@@ -1,4 +1,7 @@
 # glsl-shaders
 Shaders for my Scratch project. 
 
-Thanks to PenGroup for creating the Shaded extension, and thanks to DestrainJurY for expanding its features.
+Credits:
+Pen+ v7 Extension by Pen Group
+Shaded Extension by Pen Group
+Shaded Extra Extension by DestrainJurY
